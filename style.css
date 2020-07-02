@@ -1,0 +1,315 @@
+body {
+  background-color: black;
+}
+
+.menu {
+  height: 70px;
+  background-color: #ffa931;
+}
+.logo-heading {
+  color: black;
+  font-weight: 700;
+  font-family: "Notable", sans-serif;
+}
+.logo-div {
+  padding: 14px;
+  margin-left: 15%;
+}
+
+.links-heading {
+  position: absolute;
+  left: 50%;
+  top: 1.5%;
+  padding: 14px;
+  word-spacing: 1.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+span a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.below {
+  height: 800px;
+
+  background-color: ;
+}
+.inner-div {
+  height: 50px;
+  background-color: #e0dede;
+}
+
+.image {
+  height: 400px;
+
+  width: 100px;
+  background-color: #f5f5f5;
+  position: relative;
+}
+.text {
+  height: 400px;
+
+  width: 200px;
+}
+.me {
+  width: 200px;
+  height: 270px;
+  position: absolute;
+  left: 50%;
+  top: 5%;
+  transform: translate(-50%, 0);
+}
+
+.butn {
+  position: absolute;
+  top: 80%;
+  transform: translate(-50%, 0);
+  left: 50%;
+  width: 200px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #ffa931;
+  border: none;
+  outline: none;
+  padding-top: 1px;
+  font-family: "Lato", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Notable", sans-serif;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Yellowtail", cursive;
+  color: black;
+  font-size: 18px;
+}
+
+.butn:hover {
+  background-color: #ffa931;
+  border: none;
+  outline: none;
+}
+
+.head {
+  height: 180px;
+
+  background-color: #f5f5f5;
+  position: relative;
+}
+
+.my-name {
+  color: black;
+  position: absolute;
+  top: 5%;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 600;
+}
+.avi {
+  color: #f3c623;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 600;
+}
+.post {
+  position: absolute;
+  top: 25%;
+  left: 17px;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.para {
+  position: absolute;
+  top: 40%;
+}
+
+.txt {
+  height: 130px;
+
+  background-color: #f5f5f5;
+}
+.info {
+  height: 130px;
+
+  background-color: #f5f5f5;
+}
+.txt small {
+  color: black;
+  font-weight: 300;
+  font-size: 14px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.info small {
+  color: black;
+  font-weight: 300;
+  font-size: 14px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.social {
+  height: 90px;
+
+  background-color: #f5f5f5;
+  padding-top: 5px;
+  position: relative;
+}
+.fb {
+  border: 1px solid red;
+  margin-top: 5px;
+}
+
+.fb-butn {
+  background-color: #f5f5f5;
+  border: 1px solid blue;
+}
+
+.fb-logo {
+  color: blue;
+}
+.insta-butn {
+  background-color: #f5f5f5;
+  border: 1px solid #cf7500;
+  margin-left: 10px;
+}
+.insta-logo {
+  color: #cf7500;
+}
+
+.linkedin-butn {
+  background-color: #f5f5f5;
+  border: 1px solid #436f8a;
+  margin-left: 10px;
+}
+.linkedin-logo {
+  color: #436f8a;
+}
+
+.gmail-butn {
+  background-color: #f5f5f5;
+  border: 1px solid #c70039;
+  margin-left: 10px;
+}
+.gmail-logo {
+  color: #c70039;
+}
+.github-butn {
+  background-color: #f5f5f5;
+  border: 1px solid #393e46;
+  margin-left: 10px;
+}
+.github-logo {
+  color: #393e46;
+}
+.utube-butn {
+  background-color: #f5f5f5;
+  border: 1px solid #d92027;
+  margin-left: 10px;
+}
+.utube-logo {
+  color: #d92027;
+}
+
+.social-section {
+  position: absolute;
+  transform: translate(-50%, 0);
+  left: 50%;
+}
+.skills {
+  height: 300px;
+
+  background-color: #e0dede;
+}
+
+.my-skill {
+  height: 70px;
+
+  position: relative;
+  padding-top: 30px;
+}
+.skill-heading {
+  width: 200px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.my-skill-text {
+  height: 400px;
+  padding-top: 20px;
+
+  background-color: #e0dede;
+}
+
+.skill-text {
+  height: 400px;
+}
+.skill-text1 {
+  height: 100px;
+
+  font-family: "Bebas Neue", cursive;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.skill-text2 {
+  height: 70px;
+}
+.skill-text2 h6 {
+  font-family: "Bebas Neue", cursive;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+.html-div {
+  height: 30px;
+  background-color: #fff;
+  width: 500px;
+}
+.html1-div {
+  height: 30px;
+
+  width: 85%;
+  background-color: #ffa931;
+  position: relative;
+  padding: 5px;
+}
+.p1 {
+  position: absolute;
+  left: 90%;
+}
+
+.javascript-div {
+  height: 30px;
+  background-color: #fff;
+  width: 500px;
+}
+.javascript1-div {
+  height: 30px;
+
+  width: 70%;
+  background-color: #ffa931;
+  position: relative;
+  padding: 5px;
+}
+.p2 {
+  position: absolute;
+  left: 90%;
+}
+.bootstrap-div {
+  height: 30px;
+  background-color: #fff;
+  width: 500px;
+}
+.bootstrap1-div {
+  height: 30px;
+
+  width: 80%;
+  background-color: #ffa931;
+  position: relative;
+  padding: 5px;
+}
